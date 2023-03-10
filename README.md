@@ -1,2 +1,1 @@
-# SAYNA-ENTRAINEMENT-SUR-LES-BASES-D-INTERNET---PROJET1
-SAYNA-ENTRAINEMENT SUR LES BASES D'INTERNET - PROJET1
+Je suis une impétrante au sein Sayna. Je souhaiterai devenir un développeur Hub et une rédactrice web 
